@@ -1,0 +1,42 @@
+{
+  "name": "gulpfile_generator",
+  "version": "1.1.0",
+  "description": "This is a genarator for gulpfile and package.json",
+  "author": "steelydylan",
+  "url": "http://horicdesign.com",
+  "license": "MIT License",
+  "keywords": "gulp",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "csslint-stylish": "0.0.6",
+    "es6-promise": "*",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "*",
+    "gulp-base64": "^0.1.3",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-css-base64": "^1.3.4",
+    "gulp-css-file2base64": "^0.1.1",
+    "gulp-csscomb": "*",
+    "gulp-csslint": "^1.0.0",
+    "gulp-frontnote": "*",
+    "gulp-inline-base64": "^0.1.5",
+    "gulp-install": "^1.1.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-merge-media-queries": "*",
+    "gulp-minify": "^1.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "*",
+    "gulp-scss-lint": "^0.5.0",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1"
+  },
+  "scripts": {
+    "gulp": "node_modules/.bin/gulp"
+  }
+}
